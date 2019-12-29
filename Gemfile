@@ -2,9 +2,9 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.0.0"
 group :jekyll_plugins do
-#  gem "github-pages", "~> 203"
   gem "jekyll-admin"
   gem "jekyll-include-cache"
+  gem "jekyll-remote-theme", :github => "benbalter/jekyll-remote-theme"
 end
 
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do

@@ -1,12 +1,47 @@
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+minimal_mistakes_skin: default
+
+locale: pt-BR
 title: Bruno Marques
 email: bruno@bmarques.net
 description: Blog pessoal.
 baseurl: ""
 url: "https://bmarques.net"
+repository: "ElSaico/elsaico.github.io"
+
 twitter:
   username: DataMarques
+facebook:
+  username: bm2290
+author:
+  name: "Bruno Marques"
+  bio: "I am an **amazing** person."
+  location: "TBD, Portugal"
+  email: "bruno@bmarques.net"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DataMarques"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/bm2290"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ElSaico"
 
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DataMarques"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/bm2290"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ElSaico"
+
 plugins:
   - jekyll-admin
   - jekyll-include-cache
+  - jekyll-remote-theme
