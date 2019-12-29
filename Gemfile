@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.0.0"
-gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
+#  gem "github-pages", "~> 203"
   gem "jekyll-admin"
   gem "jekyll-include-cache"
 end

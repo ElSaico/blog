@@ -6,7 +6,7 @@ url: "https://bmarques.net"
 twitter:
   username: DataMarques
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 plugins:
   - jekyll-admin
   - jekyll-include-cache
