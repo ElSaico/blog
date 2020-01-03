@@ -2,13 +2,9 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.0.0"
 group :jekyll_plugins do
-  gem "jekyll-admin"
   gem "jekyll-include-cache"
   gem "jekyll-remote-theme", :github => "benbalter/jekyll-remote-theme"
 end
 
-install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2"
-  gem "tzinfo-data"
-end
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
