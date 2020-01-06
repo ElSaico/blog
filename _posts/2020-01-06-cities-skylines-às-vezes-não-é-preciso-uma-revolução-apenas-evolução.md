@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Cities: Skylines - às vezes não é preciso uma revolução, apenas evolução'
 categories: review
 ---
