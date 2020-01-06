@@ -17,7 +17,7 @@ Que alternativa restava para esse público desapontado? *Cities XL* era o melhor
 
 Até que, dois anos depois, surge um oponente.
 
-![Olar](/assets/images/1_iklveKs7W-F9DKTmblGZfA.jpeg)
+![Olar](/assets/images/1_iklveks7w-f9dktmblgzfa.jpeg)
 
 *Cities: Skylines* não revoluciona, mas esse nem é o objetivo dele. Os conceitos básicos são os mesmos criados por Will Wright na década de 90: você tem zonas residenciais, comerciais e industriais com densidades diferentes, usinas de força de vários tipos, serviços públicos como escolas e bombeiros, construção de parques, etc. Porém, enquanto o último *SimCity* te restringe a cidades minúsculas conectadas 24 horas por dia com o objetivo de ser mais "social" (a grande *buzzword* da época), *Skylines* apenas te dá um lote de terra cortado por autoestradas e linhas de trem e  - isto é muito importante - expansível.
 O resto é refinamento.
