@@ -1,11 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes@4.17.2"
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 
-locale: pt-BR
+locale: "pt-BR"
 title: Ideias do Nada
 email: bruno@bmarques.net
 description: Blog pessoal.
-baseurl: ""
 url: "https://bmarques.net"
 repository: "ElSaico/blog"
 twitter_username: DataMarques
@@ -19,7 +18,7 @@ timezone: "Europe/Lisbon"
 
 author:
   name: "Bruno Marques"
-  bio: "The only law I always follow is Newton's third law."
+  bio: "A lei que me governa é a primeira lei de Newton."
   location: "TBD, Portugal"
   email: "bruno@bmarques.net"
   links:
