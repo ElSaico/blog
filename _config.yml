@@ -2,19 +2,23 @@ remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 minimal_mistakes_skin: default
 
 locale: pt-BR
-title: Bruno Marques
+title: Ideias do Nada
 email: bruno@bmarques.net
 description: Blog pessoal.
 baseurl: ""
 url: "https://bmarques.net"
-repository: "ElSaico/elsaico.github.io"
+repository: "ElSaico/blog"
+twitter_username: DataMarques
+facebook_username: bm2290
+search: true
 
-twitter:
-  username: DataMarques
-facebook:
-  username: bm2290
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+timezone: "Europe/Lisbon"
+
 author:
-  #name: "Bruno Marques"
+  name: "Bruno Marques"
   bio: "The only law I always follow is Newton's third law."
   location: "TBD, Portugal"
   email: "bruno@bmarques.net"
@@ -41,6 +45,17 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ElSaico"
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      related: true
+
 plugins:
+  - jekyll-paginate
   - jekyll-include-cache
   - jekyll-remote-theme
