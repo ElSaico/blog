@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 'Cities: Skylines - às vezes não é preciso uma revolução, apenas evolução'
 categories: review
 ---
@@ -7,7 +7,7 @@ O velho *SimCity 4* ainda é um bom jogo e uma excelente forma de fazer fãs de 
 
 Por isso, quando a Maxis anunciou que, 10 anos depois, ele finalmente teria um sucessor, comemorou-se muito. Nem mesmo saber que o jogo seria 100% online era o suficiente para fazer os mais otimistas entre nós perderem a fé por completo. Estávamos acostumados com excelentes localizações, regiões amplas e lhamas, muitas lhamas; não tinha como dar errado.
 
-!["Como transformar um estúdio adorado por todos numa fonte de vergonha alheia sem fim: Parte II" (a I foi lançada pela Blizzard cerca de um ano antes)](/assets/images/1_8iH27COeKNa_IMnffcJiLQ.jpeg)
+{% include figure image_path="/assets/images/1_8iH27COeKNa_IMnffcJiLQ.jpeg" caption="\"Como transformar um estúdio adorado por todos numa fonte de vergonha alheia sem fim: Parte II\" (a I foi lançada pela Blizzard cerca de um ano antes)" %}
 
 Ops.
 
@@ -17,7 +17,7 @@ Que alternativa restava para esse público desapontado? *Cities XL* era o melhor
 
 Até que, dois anos depois, surge um oponente.
 
-![Olar](/assets/images/1_iklveks7w-f9dktmblgzfa.jpeg)
+{% include figure image_path="/assets/images/1_iklveks7w-f9dktmblgzfa.jpeg" caption="Olar" %}
 
 *Cities: Skylines* não revoluciona, mas esse nem é o objetivo dele. Os conceitos básicos são os mesmos criados por Will Wright na década de 90: você tem zonas residenciais, comerciais e industriais com densidades diferentes, usinas de força de vários tipos, serviços públicos como escolas e bombeiros, construção de parques, etc. Porém, enquanto o último *SimCity* te restringe a cidades minúsculas conectadas 24 horas por dia com o objetivo de ser mais "social" (a grande *buzzword* da época), *Skylines* apenas te dá um lote de terra cortado por autoestradas e linhas de trem e  - isto é muito importante - expansível.
 O resto é refinamento.
@@ -26,7 +26,7 @@ As opções de construção são liberadas em pequenas mas constantes doses à m
 
 Simuladores de cidades são famosos por ensinarem lições de planejamento urbano de forma natural, e *Skylines* faz isso muito bem. Crie quadras extensas com zoneamento de alta densidade e problemas de tráfego serão inevitáveis. Tente resolver isso apenas com ruas mais largas e rápidas e veja a desvalorização causada pela poluição sonora - isso se não houver aumento de tráfego porque carros de outras regiões preferem a nova rota!
 
-![De minha parte, queria presentear duas pessoas: o secretário de transportes de Porto Alegre e o secretário de obras.](/assets/images/1_5LEe-0lbWO1J_pk8QD5Ctw.png)
+{% include figure image_path="/assets/images/1_5LEe-0lbWO1J_pk8QD5Ctw.png" caption="De minha parte, queria presentear duas pessoas: o secretário de transportes de Porto Alegre e o secretário de obras." %}
 
 E mesmo suas inevitáveis limitações podem ser contornadas de forma mais fácil: o suporte a *mods* e construções personalizadas é bastante amplo, permitindo até mesmo extensas mudanças na interface. A experiência *vanilla* já é bem agradável, então pode ser que você nem se lembre dessa extensibilidade.
 
