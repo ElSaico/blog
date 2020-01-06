@@ -7,7 +7,7 @@ O velho *SimCity 4* ainda é um bom jogo e uma excelente forma de fazer fãs de 
 
 Por isso, quando a Maxis anunciou que, 10 anos depois, ele finalmente teria um sucessor, comemorou-se muito. Nem mesmo saber que o jogo seria 100% online era o suficiente para fazer os mais otimistas entre nós perderem a fé por completo. Estávamos acostumados com excelentes localizações, regiões amplas e lhamas, muitas lhamas; não tinha como dar errado.
 
-{% include figure image_path="/assets/images/1_8iH27COeKNa_IMnffcJiLQ.jpeg" caption=""Como transformar um estúdio adorado por todos numa fonte de vergonha alheia sem fim: Parte II" (a I foi lançada pela Blizzard cerca de um ano antes)" %}
+{% include figure image_path="/assets/images/1_8iH27COeKNa_IMnffcJiLQ.jpeg" caption="\"Como transformar um estúdio adorado por todos numa fonte de vergonha alheia sem fim: Parte II\" (a I foi lançada pela Blizzard cerca de um ano antes)" %}
 
 Ops.
 
