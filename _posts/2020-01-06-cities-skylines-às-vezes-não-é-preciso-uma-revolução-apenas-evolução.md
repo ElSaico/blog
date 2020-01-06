@@ -7,7 +7,7 @@ O velho *SimCity 4* ainda é um bom jogo e uma excelente forma de fazer fãs de 
 
 Por isso, quando a Maxis anunciou que, 10 anos depois, ele finalmente teria um sucessor, comemorou-se muito. Nem mesmo saber que o jogo seria 100% online era o suficiente para fazer os mais otimistas entre nós perderem a fé por completo. Estávamos acostumados com excelentes localizações, regiões amplas e lhamas, muitas lhamas; não tinha como dar errado.
 
-{% include figure image_path="/assets/images/1_8iH27COeKNa_IMnffcJiLQ.jpeg" caption="\"Como transformar um estúdio adorado por todos numa fonte de vergonha alheia sem fim: Parte II\" (a I foi lançada pela Blizzard cerca de um ano antes)" %}
+{% include figure image_path="/assets/images/1_8iH27COeKNa_IMnffcJiLQ.jpeg" caption=""Como transformar um estúdio adorado por todos numa fonte de vergonha alheia sem fim: Parte II" (a I foi lançada pela Blizzard cerca de um ano antes)" %}
 
 Ops.
 
@@ -19,8 +19,7 @@ Até que, dois anos depois, surge um oponente.
 
 {% include figure image_path="/assets/images/1_iklveks7w-f9dktmblgzfa.jpeg" caption="Olar" %}
 
-*Cities: Skylines* não revoluciona, mas esse nem é o objetivo dele. Os conceitos básicos são os mesmos criados por Will Wright na década de 90: você tem zonas residenciais, comerciais e industriais com densidades diferentes, usinas de força de vários tipos, serviços públicos como escolas e bombeiros, construção de parques, etc. Porém, enquanto o último *SimCity* te restringe a cidades minúsculas conectadas 24 horas por dia com o objetivo de ser mais "social" (a grande *buzzword* da época), *Skylines* apenas te dá um lote de terra cortado por autoestradas e linhas de trem e  - isto é muito importante - expansível.
-O resto é refinamento.
+*Cities: Skylines* não revoluciona, mas esse nem é o objetivo dele. Os conceitos básicos são os mesmos criados por Will Wright na década de 90: você tem zonas residenciais, comerciais e industriais com densidades diferentes, usinas de força de vários tipos, serviços públicos como escolas e bombeiros, construção de parques, etc. Porém, enquanto o último *SimCity* te restringe a cidades minúsculas conectadas 24 horas por dia com o objetivo de ser mais "social" (a grande *buzzword* da época), *Skylines* apenas te dá um lote de terra cortado por autoestradas e linhas de trem e  - isto é muito importante - expansível. O resto é refinamento.
 
 As opções de construção são liberadas em pequenas mas constantes doses à medida em que a cidade cresce (pra garantir, em princípio, um desenvolvimento mais natural), as ruas são variadas, maleáveis e restringem explicitamente o zoneamento, as linhas de transporte público são fáceis de criar (graças à experiência adquirida com *Cities in Motion*) e é possível delimitar regiões distintas com políticas próprias. Não chega a ser uma experiência totalmente nova, mas é muito mais agradável. É como o surgimento da banda larga: você não precisa mais esperar até a meia-noite ou as 14h de sábado, nem ter que desconectar quando alguém da família quer usar o telefone.
 
