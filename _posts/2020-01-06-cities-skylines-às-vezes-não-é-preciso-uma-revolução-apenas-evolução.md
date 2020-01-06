@@ -3,11 +3,13 @@ layout: single
 title: 'Cities: Skylines - às vezes não é preciso uma revolução, apenas evolução'
 categories: review
 ---
+## Publicado originalmente no Medium em 12/04/2015
+
 O velho *SimCity 4* ainda é um bom jogo e uma excelente forma de fazer fãs de simulação como eu gastarem bastante tempo, mas a idade avançada (ele surgiu em 2003, em tempos de Windows XP, PlayStation 2 e celulares Nokia que resistem até a bombas de hidrogênio) deixou suas limitações cada vez mais visíveis. Principalmente nas ferramentas de mobilidade urbana, que sofrem com as raízes californianas da Maxis; a expansão *Rush Hour* é necessária pra elas sequer chegarem num nível aceitável. Sim, os fãs ajudaram muito com o [Network Addon Mod](http://community.simtropolis.com/files/file/26793-network-addon-mod-for-windows-installer/), mas por limitações naturais do jogo ele não oferece nem de longe a experiência fluída das ferramentas padrão.
 
 Por isso, quando a Maxis anunciou que, 10 anos depois, ele finalmente teria um sucessor, comemorou-se muito. Nem mesmo saber que o jogo seria 100% online era o suficiente para fazer os mais otimistas entre nós perderem a fé por completo. Estávamos acostumados com excelentes localizações, regiões amplas e lhamas, muitas lhamas; não tinha como dar errado.
 
-{% include figure image_path="/assets/images/1_8iH27COeKNa_IMnffcJiLQ.jpeg" caption="\"Como transformar um estúdio adorado por todos numa fonte de vergonha alheia sem fim: Parte II\" (a I foi lançada pela Blizzard cerca de um ano antes)" %}
+{% include figure image_path="/assets/images/1_8iH27COeKNa_IMnffcJiLQ.jpeg" caption="&quot;Como transformar um estúdio adorado por todos numa fonte de vergonha alheia sem fim: Parte II&quot; (a I foi lançada pela Blizzard cerca de um ano antes)" %}
 
 Ops.
 
